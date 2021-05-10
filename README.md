@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/itsmohsin/itsmohsin">
+<a href="https://github.com/itsanjum/itsanjum">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=itsanjum&show_icons=true&theme=radical" />
 </a>
 
-<a href="https://github.com/itsmohsin/itsmohsin">
+<a href="https://github.com/itsanjum/itsanjum">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsanjum&theme=radical" />
 </a>
 
