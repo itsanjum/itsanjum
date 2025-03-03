@@ -59,12 +59,5 @@ Here are some ideas to get you started:
 </a>
 
 
-----
-<h2 align="center"> Let's connect! </h2>
-<p align="center">
-<a href="mailto:anjumunnisa1999@gmail.com"><img align="center" width="30px" src="./img/mail.png" /></a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anjumunnisa/"><img align="center" width="30px" src="./img/linkedin.png" /></a> &nbsp;&nbsp;  
-</p>
-
 
 
