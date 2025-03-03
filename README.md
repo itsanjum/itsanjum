@@ -22,8 +22,6 @@ Click <a href="https://portfolio-anjum-unnisas-projects.vercel.app/"> here</a> t
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="30px" src="./img/c.png" style="padding-right:10px;" />
-<img align="left" alt="Git" width="30px" src="./img/python.png" style="padding-right:10px;" />
 
 
 <br />
