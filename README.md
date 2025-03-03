@@ -1,5 +1,14 @@
 ### Hi there,I'm Anjum👋
 
+
+## I'm a Developer!!
+
+-🔭 I’m currently working on enhancing my skills in both frontend and backend development.
+
+## My Portfolio 💼
+
+Click <a href="https://portfolio-anjum-unnisas-projects.vercel.app/"> here</a> to view my Portfolio.
+
 <!--
 **itsmohsin/itsmohsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
